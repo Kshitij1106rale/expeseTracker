@@ -1,0 +1,118 @@
+2026-04-01 21:28:46 | INFO | ACTION: User Registration | Function: register
+2026-04-01 21:28:46 | INFO | Registered new user: kshitij
+2026-04-01 21:28:46 | INFO | DONE:   User Registration | Function: register
+2026-04-01 21:28:47 | INFO | ACTION: User Login | Function: authenticate
+2026-04-01 21:28:47 | INFO | Login SUCCESS for user: kshitij
+2026-04-01 21:28:47 | INFO | DONE:   User Login | Function: authenticate
+2026-04-01 21:28:48 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:28:48 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:28:48 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:28:48 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:28:53 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:28:53 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:28:53 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:28:53 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:28:54 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:28:54 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:28:54 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:28:54 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:28:56 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:28:56 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:28:56 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:28:56 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:28:59 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:28:59 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:28:59 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:28:59 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:29:04 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:29:04 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:29:04 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:29:04 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:29:14 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:29:14 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:29:14 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:29:14 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:29:22 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:29:22 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:29:22 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:29:22 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:30:22 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:30:22 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:30:22 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:30:22 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:30:33 | INFO | ACTION: Add Expense | Function: add_expense
+2026-04-01 21:30:33 | INFO | DONE:   Add Expense | Function: add_expense
+2026-04-01 21:30:33 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:30:33 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:30:33 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:30:33 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:30:53 | INFO | ACTION: Add Expense | Function: add_expense
+2026-04-01 21:30:53 | INFO | DONE:   Add Expense | Function: add_expense
+2026-04-01 21:30:53 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:30:53 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:30:53 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:30:53 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:31:24 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:31:24 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:31:24 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:31:24 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:31:26 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:31:26 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:31:26 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:31:26 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:31:29 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:31:29 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:31:29 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:31:29 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:20 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:20 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:20 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:20 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:21 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:21 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:21 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:21 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:22 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:22 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:22 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:22 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:24 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:24 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:24 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:24 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:29 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:29 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:29 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:29 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:30 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:30 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:30 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:30 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:31 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:31 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:31 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:31 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:37 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:37 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:37 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:37 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:38 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:38 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:38 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:38 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:38 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:38 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:38 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:38 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:40 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:40 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:40 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:40 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:41 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:41 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:41 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:41 | INFO | DONE:   Load Study Log | Function: load_study_logs
+2026-04-01 21:32:41 | INFO | ACTION: Load Expenses | Function: load_expenses
+2026-04-01 21:32:41 | INFO | DONE:   Load Expenses | Function: load_expenses
+2026-04-01 21:32:41 | INFO | ACTION: Load Study Log | Function: load_study_logs
+2026-04-01 21:32:41 | INFO | DONE:   Load Study Log | Function: load_study_logs
